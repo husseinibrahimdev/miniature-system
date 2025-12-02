@@ -1,3 +1,5 @@
 The hero walked into the room.
 The room was pitch black and silent.  <-- They changed this
 The hero found a treasure chest.
+
+part 2
